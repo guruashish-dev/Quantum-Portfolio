@@ -1,0 +1,6 @@
+[
+  "tests/test_project.py::test_features_and_chronological_split",
+  "tests/test_project.py::test_optimizer_constraints",
+  "tests/test_project.py::test_quantum_exec_prediction",
+  "tests/test_project.py::test_risk"
+]
